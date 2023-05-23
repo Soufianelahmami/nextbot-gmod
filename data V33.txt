@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Garry's Mod (GMod) is a sandbox physics game that has captivated gamers and creators with its limitless possibilities for over a decade","photo2":"https://iili.io/HgPAXZF.jpg"},
+  {"desc3":"One of the standout features of GMod is the Nextbot system, which revolutionizes non-player character (NPC) interactions in the game. ","photo3":"https://iili.io/HgPAVTP.webp"},
+  {"desc4":"Nextbot introduces advanced AI capabilities, allowing users to create intelligent and lifelike NPCs that can navigate environments, engage in combat, and interact with players and other entities","photo4":"https://iili.io/HgPAWj1.jpg"},
+  {"desc5":"Nextbot is an advanced AI framework introduced in GMod that enables users to create intelligent NPCs","photo5":"https://iili.io/HgPApt9.jpg"},
+  {"descd":"Unlike traditional scripted NPCs, which are limited in their actions and behaviors, Nextbot offers a more dynamic and flexible approach","photod":"https://iili.io/HgPR9ne.jpg"}
    ]
  
 }
